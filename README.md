@@ -1,6 +1,6 @@
 # Lecture: Building Twitter clone with ReactJS 
 
-This simple react application was created for students of *nFactorial: Web Intro course*. 
+This simple react application was created at *nFactorial: Web Intro course*. 
 
 You can find more about this course [here](https://www.nfactorial.school/nfactorial-fullstack).
 
