@@ -18,4 +18,3 @@ npm start
 
 ```
 
-Made with love at &nbsp; <img src="https://github.com/azhaubassar/nfactorial-webintro-reactapp/blob/master/nfactorial-logo.png" style="height:30px; padding-top:50px"/> &nbsp;.
