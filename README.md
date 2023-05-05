@@ -2,7 +2,6 @@
 
 This simple react application was created at *nFactorial: Web Intro course*. 
 
-You can find more about this course [here](https://www.nfactorial.school/nfactorial-fullstack).
 
 ## Installation
 
